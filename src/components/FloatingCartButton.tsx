@@ -22,7 +22,7 @@ export function FloatingCartButton({ count, onPress }: { count: number; onPress:
 const styles = StyleSheet.create({
   button: {
     position: "absolute",
-    bottom: 24,
+    bottom: 100,
     right: 20, 
     width: SIZE,
     height: SIZE,
